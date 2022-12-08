@@ -25,6 +25,7 @@
     "https://deno.land/std@0.167.0/path/win32.ts": "7cebd2bda6657371adc00061a1d23fdd87bcdf64b4843bb148b0b24c11b40f69",
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/76bf43151a6a76f333ac9c2dc4576468ce6c7943/message.ts": "e8aabe5123b1033c0d9bd980e4732c9ea016292d1431ca197eb11f63aaacb2c8",
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/76bf43151a6a76f333ac9c2dc4576468ce6c7943/sampleServer.ts": "d3394e71c49292935c8749e1756c3594a9e3a90f8c39bdd47ecc86a2882085ca",
+    "https://raw.githubusercontent.com/narumincho/deno-https-import-test/7c9a2c1caed59fcec84a794f266f23a59b84b111/imageServerUseReadFile.ts": "74570c5726f652bf4d0631ca683dbb7ee4184f2eee96a1e2146ae779524c23c7",
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/d9c961328aff4e3512a550ac022fbccebdd988df/useImportMap.ts": "e551bea56fb61a61593f4efe4cf4d84676f70cd4d5aa726f5e710a253caab2dd"
   }
 }
