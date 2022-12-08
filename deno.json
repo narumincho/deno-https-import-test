@@ -2,5 +2,6 @@
     "compilerOptions": {
         "noUncheckedIndexedAccess": true,
         "exactOptionalPropertyTypes": true
-    }
+    },
+    "importMap": "import_map.json"
 }
