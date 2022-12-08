@@ -1,3 +1,3 @@
-import { main } from "https://raw.githubusercontent.com/narumincho/deno-https-import-test/76bf43151a6a76f333ac9c2dc4576468ce6c7943/sampleServer.ts";
+import {} from "https://raw.githubusercontent.com/narumincho/deno-https-import-test/01c08b708bb21abdcda420eb1673a91ea1997678/useImportMap.ts";
 
 main();
