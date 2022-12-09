@@ -28,6 +28,8 @@
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/76bf43151a6a76f333ac9c2dc4576468ce6c7943/sampleServer.ts": "d3394e71c49292935c8749e1756c3594a9e3a90f8c39bdd47ecc86a2882085ca",
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/7c9a2c1caed59fcec84a794f266f23a59b84b111/imageServerUseReadFile.ts": "74570c5726f652bf4d0631ca683dbb7ee4184f2eee96a1e2146ae779524c23c7",
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/7fb95ec3369d8b3d603cff1fe502efa4fb1fec0d/imageServerUseFetch.ts": "0cf0489f2d3b96d585c0713f6b6e4e82e5153f725ce00a15fde14b5ca594ef1e",
+    "https://raw.githubusercontent.com/narumincho/deno-https-import-test/b273f0f301ca735c451fdcf6ea7144d6e0d23fa4/deno.png.json": "5bb907f8bd776ab09e90a9e69a6793a1051e9485c5a541a46b3dab243e6eb6cd",
+    "https://raw.githubusercontent.com/narumincho/deno-https-import-test/b273f0f301ca735c451fdcf6ea7144d6e0d23fa4/imageServerUseJsonImport.ts": "d9d032e73ea423fc30161032597e4e52dacb54eba107ab207e716c2a0132f157",
     "https://raw.githubusercontent.com/narumincho/deno-https-import-test/d9c961328aff4e3512a550ac022fbccebdd988df/useImportMap.ts": "e551bea56fb61a61593f4efe4cf4d84676f70cd4d5aa726f5e710a253caab2dd"
   }
 }
